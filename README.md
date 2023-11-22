@@ -3,6 +3,7 @@ Introduction
 This document provides a step-by-step guide on creating a Web Application Firewall (WAF) Web ACL using the AWS Management Console. The Web ACL will help protect your web applications from common web exploits.
 
 ---
+---
 ## Step 1: Accessing the AWS WAF Console 
 Open the AWS Management Console.
 In the search bar, type "WAF" and select "WAF & Shield" from the results.
